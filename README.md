@@ -33,14 +33,15 @@ The trained CNN models are stored in `models/CNN/` and can be used directly. Mea
   year={2009}
 }
 ```
-
+```bibtex
 @article{bird2024cifake,
   title={CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images},
   author={Bird, John J and Lotfi, Amir},
   journal={IEEE Access},
   year={2024}
 }
-
+```
+```bibtex
 @misc{tian2023stablerep,
       title={StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners}, 
       author={Yonglong Tian and Lijie Fan and Phillip Isola and Huiwen Chang and Dilip Krishnan},
@@ -49,3 +50,4 @@ The trained CNN models are stored in `models/CNN/` and can be used directly. Mea
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
