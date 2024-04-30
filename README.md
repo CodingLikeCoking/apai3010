@@ -25,12 +25,14 @@ The trained CNN models are stored in `models/CNN/` and can be used directly. Mea
 
 ## References
 
+```bibtex
 @article{krizhevsky2009learning,
   title={Learning multiple layers of features from tiny images},
   author={Krizhevsky, Alex and Hinton, Geoffrey},
   journal={2009},
   year={2009}
 }
+```
 
 @article{bird2024cifake,
   title={CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images},
