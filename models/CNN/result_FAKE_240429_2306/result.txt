@@ -1,0 +1,2 @@
+Best result:
+Epoch: 36 | train_loss: 0.6367 | train_acc: 0.7766 | test_loss: 2.0231 | test_acc: 0.4295
