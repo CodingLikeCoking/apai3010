@@ -1,4 +1,6 @@
-# apai3010
+# Evaluating the Efficacy of Synthetic Images In Training Visual Representation Models: A Comparative Study
+
+To access our report, you can visit https://www.overleaf.com/read/zkrhdrykwnmw#1ec469 
 
 ## Abstract
 
